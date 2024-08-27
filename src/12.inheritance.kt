@@ -7,7 +7,6 @@ fun main() {
 
 }
 
-
 open class Vehicle {
     var name: String = "";
     var model: String = "";
